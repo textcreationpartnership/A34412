@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations proposed to all you that sing Davids sundry experiences, confessions, complaints, exhortations, prophecies, praises &amp;c., in rhyme and meeter by Edward Cook.</title>
+            <author>Cook, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34412</idno>
+            <idno type="STC">Wing C6007</idno>
+            <idno type="STC">ESTC R35659</idno>
+            <idno type="EEBO-CITATION">15509488</idno>
+            <idno type="OCLC">ocm 15509488</idno>
+            <idno type="VID">103622</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103622)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations proposed to all you that sing Davids sundry experiences, confessions, complaints, exhortations, prophecies, praises &amp;c., in rhyme and meeter by Edward Cook.</title>
+                  <author>Cook, Edward.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.] ,</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms --  Criticism, interpretation, etc.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103622:1" rendition="simple:additions"/>
+            <p>Some CONSIDERATIONS Propoſed to all you that ſing DAVIDS SUNDRY Experiences, Confeſſions, Complaints, Exhortations, Propheſies, Praiſes, &amp;c. in Rhyme and Meeter.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Pſal. 69.12.</hi>
+                  </bibl> I was the Song of the Drunkards.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Amos 8.3.</hi>
+                  </bibl> The Songs of the Temple ſhall be howlings.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>1 Cor. 14.15.</hi>
+                  </bibl> I will ſing with the Spirit, and with <g ref="char:V">Ʋ</g>nderſtanding alſo.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Pſal. 69.9.</hi>
+                  </bibl> O worſhip the Lord in the Beauty of Holineſs.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Pſal. 47.7.</hi>
+                  </bibl> For God is the King of all the Earth; ſing ye Praiſes with underſtanding.</p>
+            </q>
+            <p>By <hi>Edward Cook.</hi>
+            </p>
+            <p>Printed in the Year, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103622:2"/>
+            <pb n="3" facs="tcp:103622:2" rendition="simple:additions"/>
+            <head>Some Conſiderations propoſed to all you that ſing <hi>David's</hi> ſundry Experiences, &amp;c. in Rhyme and Meeter.</head>
+            <p>COnſider what the Apoſtle writeth unto the <hi>Corinthi<g ref="char:EOLhyphen"/>ans,</hi> To <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing with the Spirit, and with Underſtanding; and to the <hi>Epheſians,</hi> That they ſhould make Melody in their Hearts: Now I write to you the People of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> theſe following Queries, that uſe to ſing Pſalms in Rhyme and Meeter, collected into Engliſh by <hi>Sternhold</hi> and <hi>Hopkins.</hi>
+            </p>
+            <p>When did your Bones Quake for fear? And when did you all Night waſh your Bed with Tears of Complaint unto the Lord, as you ſing in the ſixth Pſalm? If it be not ſo with you as you ſing, then I am ſure you tell a Lye unto the Lord, and that is not to make Mellody in your Hearts in Grace.</p>
+            <p>And do not you ſing again in the firſt Pſalm, That you will not lead your Lives as Sinners do, nor ſit in Scorners Chair? And in the ſecond Pſalm, That the Lord above ſhould be ſer<g ref="char:EOLhyphen"/>ved with trembling? Why then do you ſcorn the <hi>Quakers,</hi> who work out their Salvation with Fear and Trembling? And why do you condemn the <hi>Quakers</hi> for judging, when your ſelves ſing and ſay, All the Kings and Rulers of the Earth are con<g ref="char:EOLhyphen"/>ſpired againſt Chriſt? Is not this high Treaſon you ſing amongſt you?</p>
+            <p>And how can you ſing the 3d Pſalm with a good Conſcience? who ſay, That if ten thouſand hem you in, you could not be afraid: Is this true? And in the forth Pſalm, You will lie down in Peace, when there is no Peace to the Wicked, ſaith my God: And when did the Lord make your hearts glad more then Corn and Wine?</p>
+            <pb n="4" facs="tcp:103622:3"/>
+            <p>And when did you give your Goods to the Saints, as you ſing in the 16th pſalm? And why do you ſay the Lord teacheth you every night? when your Prieſt ſays, <hi>Immediate or preſent Teach<g ref="char:EOLhyphen"/>ing is ceaſed, and never here to be brought to;</hi> and yet thou ſayeſt in pſalm 51. The Lord Reveals to thee; and here thou owneſt Re<g ref="char:EOLhyphen"/>velation, which all your Prieſts deny.</p>
+            <p>And how caſt thou ſing, as in pſalm 18. That thou waſt an In<g ref="char:EOLhyphen"/>nocent Perſon before the Lord, and that thou reſraineſt from ſin and wickedneſs in any caſe? when your Prieſt ſaith, <hi>You can never ceaſe from ſin while on this ſide the Grave, in your best attainment?</hi> And when didſt thou break brazen Bars aſſunder? And when were thy Hands and Feet pierced through, and thy Tongue cle<g ref="char:EOLhyphen"/>ved faſt? And when might thy Bones be numbred for torment? And when was thy Garment divided, and caſt Lots for? Is not this Blaſphemy, when thou ſingeſt of thy ſelf that which was propheſied of Chriſt, and properly belongeth to him, as in pſa. 22?</p>
+            <p>In pſalm 27. thou ſingeſt, The Lord is thy Light; Why then doſt thou hate the Light in thy Conſcience, which Chriſt the Light hath enlightned thee withal? And when did thy Parents thee forſake, and caſt thee off? And when was thy Bones waſted, that thy Friends, and Kindsfolk, and Neighbours were afraid to ſee thee, as men once dead? as thou ſingeſt in pſalm 31.</p>
+            <p>When didſt thou faint with faſting that thy bones did wear &amp; waſte away? as thou ſingeſt in pſalm 32. And when didſt thou clothe thy ſelf with Sack? Is not this plain mocking of the Lord? Is this to ſing with the Spirit of Underſtanding?</p>
+            <p>And wherefore do you ſpeak againſt the <hi>Quakers</hi> who owns the Everlaſting Light, when you your ſelves ſing in pſalm 36. That in the Light you are full ſure the Everlaſting Light to ſee? Are not you <hi>Quakers</hi> now in your ſinging? do not you hold forth their Doctrine, the Everlaſting Light? and yet you will ſuffer your Prieſt to call it a natural light, and not reprove him: For is that natural that is Everlaſting? Is not this for you to underſtand?</p>
+            <pb n="5" facs="tcp:103622:3" rendition="simple:additions"/>
+            <p>And when did you go weeping all the day long in dolefull he<g ref="char:EOLhyphen"/>vineſs? And when didſt thou roar for grief of heart? as in Pſalm 38. And where is it written of thee, In the volum of the Lords Book? as in Pſalm 40. Is not this of Chriſt?</p>
+            <p>And why again doſt thou deſire the Lord in thy ſinging, That he would ſend forth his Light, as in Pſalm 43. and his Light is ſent forth already; and he is come again a Light unto the World, and hath placed it in your Conſciences according as you ſing, and yet you will not believe in that Light which he hath enlight<g ref="char:EOLhyphen"/>ned you withal, but look for another, and deny it,</p>
+            <p>And when were your Bellies glewed to the Ground? And when did you bluſh to hear the wicked mock, &amp; nod their heads, as you ſing in pſalm 44. Are theſe things ſo or no which you ſing unto the Lord? O when will you perform your promiſes to the Lord, to lay Calves and other things upon his Altar? what, are you gone back from being <hi>Chriſtians,</hi> to be <hi>Jews</hi> again? to promiſe the Lord to lay Calves upon the Altar? Are not you all Denyers of Chriſt that ſing ſo now.</p>
+            <p>Come a little further: And when did dreadfull fear make thee to quake, that no ſhift thou couldſt make, as thou ſingſt in pſal. 55. you were uſed to ſay that the <hi>Quakers</hi> Religion was but a new Sect, as yeſterday; but you may read otherwiſe: for <hi>David</hi> and <hi>Moſes</hi> quaked, and exceedingly feared and trembled, and if ever you mean to come into the life of <hi>Moſes,</hi> and condition of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> whoſe Pſalms you have miſerably abuſed, you muſt know a day of quaking and howling, though now you ſing over it: And in pſalm 56. thou ſingeſt, That thou mayeſt aſſend with ſuch as live in Light.</p>
+            <p>And when didſt thou cry unto the Lord that thy throat was hoarſe again? And when didſt thou faint and quail with looking for help from the Lord, as thou ſingeſt in pſalm 69. And when didſt thou get Viniger and Gall.</p>
+            <p>And where learned; you theſe Verſes and Rymes that you ſing in pſalm 74.</p>
+            <p>
+               <hi>Why doſt thou draw thy hand aback, and hide in thy lap?</hi>
+            </p>
+            <p>
+               <hi>O pluck it out, and be not ſlack, to give thy Foes a rap.</hi>
+            </p>
+            <pb n="6" facs="tcp:103622:4"/>
+            <p>Think you the Lord will be pleaſed with theſe things? Will not he turn ſuch Songs as theſe into Howlings, and make you howl for ſinging of them.</p>
+            <p>And when didſt thou ſay unto the Mad-people, Set not your Horn ſo high? and to the Ungodly, Deal not ſo furiouſly, as in Pſalm 75? Didſt thou ever reprove Sinners in the gate? And when was thy Breath ſtopt, and thy Speech gone, and thine Eyes alwayes held from Reſt, as thou ſingeſt in pſa. 77.</p>
+            <p>And when waſt thou ſtrucken dead, that thou forgot to eat thy Bread, and thy Bones burnt as an Hearth, that thou ſingeſt ſuch things to the Lord, in pſalm 102. where thou telleſt the Lord, That thou haſt filled thy Hunger with Aſhes, and thy Drink hath been Tears? If theſe things be not true, then thou art as grie<g ref="char:EOLhyphen"/>vous a Lyar as ever I heard of.</p>
+            <p>And how canſt thou ſing Pſalm 103. That God hath removed thy Sin from thee as far as the Eaſt is from the Weſt, and yet ſayſt thou muſt have them as long as thou liveſt, when as thy Sins yet remain with thee, knawing upon thy Conſcience, for thus the Scripture ſaith, <hi>He that commits Sin, is a Servant of Sin: And Sin lies at the Door of him that doth not well:</hi> And it is God's Word to <hi>Cain,</hi> and to all <hi>Cain</hi>'s Generation for ever, That their ſins are not removed until they ceaſe from committing of ſin, <hi>The Wrath of God remains upon the Tranſgreſſor:</hi> And your noble Hoſts of Miniſters that you ſung of the other day, What is now become of them? Have not they brought themſeves and you to a fair paſs, and brought you back again almoſt twenty years journey, and leaves you now in a Wilderneſs with the Biſhops? Which I am ſure was not the reformation they told you of, and theſe are not noble Miniſters, that have caſt the Law of God behind their Backs, but ignoble; and ſo for them you cannot laud the Lord.</p>
+            <p>And when didſt thou looſe all thy fatneſs with faſting, that thy knees were ſo feeble, as in Pſalm 109. And when didſt thou riſe in Midnight to magnifie the Lord? And when didſt thou quake to ſee wicked men Gods Laws forſake? And when didſt thou praiſe God ſeven times a day? And when was thy Body parched and dried like a skin Bottle in the ſmoke, as thou ſingeſt in Pſalm 119, verſe
+<pb n="7" facs="tcp:103622:4" rendition="simple:additions"/>83. and 53. and when did the Light ſhine in thy heart, as in Pſal. 225.</p>
+            <p>And wherefore doſt thou ſing, That thou are not puft in mind, and haſt no ſcornful eye, when thou haſt both, in Pſalm. 131. and why doſt thou deſire God that the righteous ſhould ſmite thee, but when the righteous calls upon thee to fear God and repent, then thou wilt ſmite him with the Fiſt of wickedneſs, as in Palm 141. And what is the new Song which thou wilt ſing unto the Lord, as thou promiſeſt in Pſalm 144. haſt thou any other Pſalms but the old which <hi>Hopkins</hi> and <hi>Sternhold</hi> hath brought in.</p>
+            <p>And who brought up the <hi>Te Deum,</hi> and <hi>Benedictus,</hi> and <hi>Nunc Dimittis,</hi> and <hi>Quicunque <g ref="char:V">Ʋ</g>ult,</hi> did not ſome of theſe come from <hi>Rome?</hi> and Doctor <hi>Cox</hi> his Song, and <hi>Da Pacem Domine,</hi> is not this like the Latine Service which the <hi>Pope</hi> tolerates? And have you forgotten Biſhop <hi>Bonners</hi> ſayings when he heard the <hi>Proteſt<g ref="char:EOLhyphen"/>ants</hi> had ſet up Lord Biſhops, and retained ſome of the Church of <hi>Romes</hi> Ceremonies he ſmiled, and ſaid, <hi>If they ſup of our Broth, we will make them eat of our Meat:</hi> And this is a Caution to you <hi>Proteſtants,</hi> that you beware of touching any thing appertaining to the Church of <hi>Rome,</hi> for ſhe will quite defile you; and your Song of the Virgin <hi>Mary,</hi> and <hi>Athenaſius, Symbolae,</hi> do you know from whence theſe comes? and your Song before Morning Prayer, where you call upon the <hi>Gentiles,</hi> to pray God bring them into his Light; Here you confeſs that there is a Light in the <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> which you ſing with a loud voice before all the People; and in your Song before the Sermon, you deſire God to convert all your Foes, and bring them to his Light: Are not you all <hi>Quakers</hi> by your ſinging, Bring all to the Light? and when your Paſtor feeds your ſouls with the Bread of Life, that you ſing of, then ex<g ref="char:EOLhyphen"/>amine well your ſelves and ſee if your ſouls be not rather ſtarved upon the barren Mountains for lack of the Bread of Life, then fed with it; let the Light in your Conſcience judge between you and me in this matter, whether leanneſs and barrenneſs have not poſſeſſed your ſouls.</p>
+            <p>And what manner of Chriſtians are you that ſing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought but ſin and wickedneſs <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſts in your heart, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:103622:5" rendition="simple:additions"/>the Lord, you play your parts; and how do you make melody in your hearts in ſin and wickedneſs? judg in your ſelves if you are fit Perſons to ſup with the Lord; for this is your Thankſ<g ref="char:EOLhyphen"/>giving Pſalm, appointed to be ſung after the receiving of the Lords Supper.</p>
+            <p>And in the laſt Pſalm you pray God to defend you from the <hi>Pope</hi> and <hi>Turk,</hi> that would Gods dear Son thruſt out of his Throne, and yet honour the <hi>Pope,</hi> and honour his Muſick, Sur<g ref="char:EOLhyphen"/>plice, and Organ, and Fleſh, and Fiſh dayes, and Lent; and you your ſelves will not give Chriſt a little room in your hearts to guide you by his Light, as by your own confeſſion you ſing, that there is nothing in your hearts but ſin and wretchedneſs, which I believe you, while ſin remains in your mortal Bodies, and ſo conclude your ſelves all miſerable Sinners; and many more things you ſing, which is not to ſing with the Underſtand<g ref="char:EOLhyphen"/>ing, nor with the Spirit which makes Melody in the Hearts of Gods People, which have <hi>Davids</hi> Spirit, which taught them to ſing Pſalms and Hymes and Spiritual Songs, before <hi>Hopkins</hi> and <hi>Sternholds</hi> were, and need none of their Rymes and Meeters to teach them to ſing.</p>
+            <p>How can you ſing, You all give honour to his holy Name, when you curſe and ſwear, and daily profane it, as in Pſalm 27. And you ſing, The Righteous in the Lord rejoyce, and yet your Prieſts ſay, ye ſhall not be righteous while you are on Earth.</p>
+            <closer>
+               <signed>E. C</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
